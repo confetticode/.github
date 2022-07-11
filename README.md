@@ -1,2 +1,0 @@
-# confetticode
-Nothing special here
