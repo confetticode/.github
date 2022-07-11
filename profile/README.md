@@ -1,4 +1,4 @@
-# About ConfettiCode
+# Introduction
 
 Welcome to ConfettiCode!
 
